@@ -10,11 +10,8 @@
   - 🤖 **College Helpdesk Chatbot** using Gemini API  
   - 📄 **AI Resume Scanner** using NLP, spaCy & Streamlit  
 - 🌱 I’m currently learning **LLMs, LangChain, Prompt Engineering, and Streamlit Cloud Deployment**  
-- 👯 I’m looking to collaborate on **Open-source AI & EdTech projects**  
-- 🤝 I’m looking for help with **UI/UX in Streamlit apps**  
-- 💬 Ask me about **Python, Streamlit, SQLite, AI/ML, and Full Stack Projects**  
+- 💬 Ask me about **Python, Streamlit, SQLite, AI/ML**  
 - 📫 How to reach me: **yadavhitesh380@gmail.com**  
-- ⚡ Fun fact: **I turn coffee into code ☕💻**
 
 ---
 
