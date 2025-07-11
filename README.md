@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on:  
   - 🤖 **College Helpdesk Chatbot** using Gemini API  
   - 📄 **AI Resume Scanner** using NLP, spaCy & Streamlit  
-- 🌱 I’m currently learning **LLMs, LangChain, Prompt Engineering, and Streamlit Cloud Deployment**  
+- 🌱 I’m currently learning **Flask,Django, web development and Streamlit Cloud Deployment**  
 - 💬 Ask me about **Python, Streamlit, SQLite, AI/ML**  
 - 📫 How to reach me: **yadavhitesh380@gmail.com**  
 
